@@ -1,0 +1,4 @@
+interface:
+  display_name: "手表功耗异常分析"
+  short_description: "结合电源、温度、佩戴和重启日志分析手表异常耗电，并积累案例规则"
+  default_prompt: "请使用 $power-consumption-analysis 分析这份手表日志，给出异常窗口、证据、判定和处置建议。"
